@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 2,
+        "name": "Database Management",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/computer-background-design_1212-545.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Cooking Book",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/open-recipe-book-with-woman-cooking_40816-398.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "python Programming",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/isometric-data-visualization-elements-background_23-2148097342.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "C Programming",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid ",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 6,
+        "name": "System Administration",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 7,
+        "name": "GK Book",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 8,
+        "name": "Graphic Novels",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 9,
+        "name": "Blockchain & Cryptocurrency",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid ",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 10,
+        "name": "Geo Graphical ",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 11,
+        "name": "Science Fiction & Fantasy ",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    },
+    {
+        "id": 11,
+        "name": "Virtualization & Containers ",
+        "title": "Lorem, ipsum dolor sit amet consecture adipisicing elit.",
+        "price": 150,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1867951941.1736359646&semt=ais_tags_boosted"
+    }
+]
+
