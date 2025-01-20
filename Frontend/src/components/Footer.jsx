@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <div>
-            <footer className="footer p-10 bg-white-800 text-black rounded dark:bg-slate-900 dark:text-white">
+            <footer className="max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-900 dark:text-white">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {/* Quick Links Section */}
                     <div>
@@ -56,7 +56,7 @@ function Footer() {
                 </div>
 
                 <div className="mt-8 text-center text-sm">
-                    <p>Copyright © {new Date().getFullYear()} - All rights reserved by ACME Industries Ltd</p>
+                    <p>Copyright © {new Date().getFullYear()} - All rights reserved by Buddhiman </p>
                 </div>
             </footer>
         </div>

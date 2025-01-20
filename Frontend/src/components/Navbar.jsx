@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Login from './Login';
 
-function Navbar() {
+function Navbar () {
     const [theme, setTheme] = useState(localStorage.getItem("theme") ? localStorage.getItem("theme") : "light")
     const element = document.documentElement;
     useEffect(() => {
@@ -47,7 +47,7 @@ function Navbar() {
                 <a href="/contact">Contact</a>
             </li>
             <li>
-                <a href="#about">About</a>
+                <a href="/AboutUs">About</a>
             </li>
         </>
     );
@@ -86,6 +86,7 @@ function Navbar() {
                                 {navItems}
                             </ul>
                         </div>
+                        
                         <a className="text-2xl font-bold cursor-pointer ">BookStore</a>
                     </div>
                     <div className="navbar-end space-x-3">

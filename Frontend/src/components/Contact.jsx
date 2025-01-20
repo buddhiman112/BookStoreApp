@@ -20,7 +20,7 @@ const Contact = () => {
             <Navbar />
 
             {/* Contact Page Content */}
-            <div className="min-h-screen bg-white flex items-center justify-center px-4">
+            <div className="min-h-screen bg-white flex items-center justify-center px-4 ">
                 <div className="max-w-md w-full">
                     {/* Page Title */}
                     <div className="text-center mb-6">

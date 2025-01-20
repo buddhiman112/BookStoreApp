@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 function Course() {
     return (
         <>
-            <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 ">
+            <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-900 dark:text-white">
                 <div className="mt-28 items-center justify-center text-center">
                     <h1 className='text-2xl  md:text-4xl'>we're delighted to have you <span className="text-pink-500">Here! :)</span></h1>
                     <p>These books are completely free to access, so feel free to explore them without any cost. They provide a wealth of knowledge on various topics that can

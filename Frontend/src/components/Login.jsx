@@ -12,9 +12,9 @@ function Login() {
     const onSubmit = (data) => console.log(data);
 
     return (
-        <div>
+        <div className="dark:bg-slate-900 dark:text-white ">
             <dialog id="my_modal_3" className="modal">
-                <div className="modal-box">
+                <div className="modal-box dark:bg-slate-900 dark:text-white">
                     <form onSubmit={handleSubmit(onSubmit)}>
                         {/* Close button */}
                         <Link
@@ -25,7 +25,7 @@ function Login() {
                             ✕
                         </Link>
 
-                        <h3 className="font-bold text-lg">Login</h3>
+                        <h3 className="font-bold text-lg ">Login</h3>
 
                         {/* Email Field */}
                         <div className="mt-4 space-y-2">

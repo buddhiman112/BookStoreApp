@@ -14,14 +14,14 @@ function Signup() {
 
     return (
         <>
-            <div className="flex h-screen items-center justify-center">
-                <div className="w-full max-w-md">
-                    <div className="modal-box">
+            <div className="flex h-screen items-center justify-center dark:bg-slate-900 dark:text-white">
+                <div className="w-full max-w-md ">
+                    <div className="modal-box ">
                         <h3 className="font-bold text-lg">Sign Up</h3>
                         <form onSubmit={handleSubmit(onSubmit)}>
                             <Link
                                 to="/"
-                                className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2"
+                                className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2 "
                                 onClick={() => document.getElementById("my_modal_3").close()}
                             >
                                 ✕
